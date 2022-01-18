@@ -1,7 +1,10 @@
-### Lecture 1
+# Lecture 1
 
 ## Autoregressive Model
 
-# Masked Autoencoder
+### Masked Autoencoder
 
-Motivation:
+Using autoencoder as a generative model:
+
+
+Motivation: 
